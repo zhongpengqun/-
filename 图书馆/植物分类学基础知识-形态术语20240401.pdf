@@ -1,0 +1,274 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0127)https://eplat.imau.edu.cn/meol/common/script/preview/download_preview.jsp?fileid=4466624&resid=823936&lid=47474&preview=preview -->
+<html xmlns="http://www.w3.org/1999/xhtml" class=""><head><meta http-equiv="Content-Type" content="text/html; charset=GBK"><title>3 45植物分类学基础知识 形态术语20240401.pdf
+</title>
+    <meta name="Description" content="清华教育在线系列软件">
+    
+
+
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+
+<meta http-equiv="Content-Language" content="zh-CN">
+<meta name="Description" content="THEOL系列软件">
+<meta name="keywords" content="网络教学综合平台,THEOL系列软件">
+<meta name="Author" content="Educational Technology Institute, Tsinghua University">
+<meta name="Copyright" content="Copyright(C)2005 Educational Technology Institute, Tsinghua University">
+
+
+<link href="./植物分类学基础知识-形态术语20240401_files/module_style.css" rel="stylesheet" type="text/css">
+<link href="./植物分类学基础知识-形态术语20240401_files/module_style(1).css" rel="stylesheet" type="text/css">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script charset="utf-8" src="./植物分类学基础知识-形态术语20240401_files/UrlChangeTracker.js.下载"></script><script src="./植物分类学基础知识-形态术语20240401_files/hm.js.下载"></script><script type="text/javascript" src="./植物分类学基础知识-形态术语20240401_files/jquery-3.6.0.min.js.下载"></script>
+<script type="text/javascript" src="./植物分类学基础知识-形态术语20240401_files/jquery-migrate-1.4.1.min.js.下载"></script>
+<script type="text/javascript" src="./植物分类学基础知识-形态术语20240401_files/jquery-migrate-3.4.0.min.js.下载"></script>
+<script type="text/javascript" src="./植物分类学基础知识-形态术语20240401_files/function.js.下载"></script>
+<script type="text/javascript" src="./植物分类学基础知识-形态术语20240401_files/common.js.下载"></script>
+<script type="text/javascript" src="./植物分类学基础知识-形态术语20240401_files/json2.js.下载"></script>
+<link rel="stylesheet" type="text/css" href="./植物分类学基础知识-形态术语20240401_files/jquery.fancybox.css">
+<script type="text/javascript" src="./植物分类学基础知识-形态术语20240401_files/jquery.fancybox.js.下载"></script>
+<link rel="stylesheet" href="./植物分类学基础知识-形态术语20240401_files/jquery-ui.min.css">
+<link rel="stylesheet" href="./植物分类学基础知识-形态术语20240401_files/ui-custom.css">
+<script type="text/javascript" src="./植物分类学基础知识-形态术语20240401_files/jquery-ui.min.js.下载"></script>
+<link rel="stylesheet" href="./植物分类学基础知识-形态术语20240401_files/layui.css" media="all">
+<script type="text/javascript" src="./植物分类学基础知识-形态术语20240401_files/layui.js.下载"></script><link id="layuicss-laydate" rel="stylesheet" href="./植物分类学基础知识-形态术语20240401_files/laydate.css" media="all"><link id="layuicss-layer" rel="stylesheet" href="./植物分类学基础知识-形态术语20240401_files/layer.css" media="all"><link id="layuicss-skincodecss" rel="stylesheet" href="./植物分类学基础知识-形态术语20240401_files/code.css" media="all">
+<link rel="stylesheet" href="./植物分类学基础知识-形态术语20240401_files/editormd.min.css" media="all">
+<script type="text/javascript" src="./植物分类学基础知识-形态术语20240401_files/editormd.js.下载"></script>
+<script type="text/javascript" src="./植物分类学基础知识-形态术语20240401_files/u-mooc.extends.js.下载"></script>
+<script type="text/javascript">
+    //配置弹出层
+    $().ready(function () {
+        //固定大小的弹出层
+        if($("a[name='fancybox']").length>0){
+            $("a[name='fancybox']").fancybox({
+                'width': '80%',
+                'height': '95%',
+                'autoScale': false,
+                'autoSize'   : false,
+                'transitionIn': 'none',
+                'transitionOut': 'none',
+                'type': 'iframe'
+            });
+        }
+
+        //弹出层大小自适应
+        if($("a[name='fancyboxAuto']").length>0){
+            $("a[name='fancyboxAuto']").fancybox({
+                'autoScale': false,
+                'autoSize'   : true,
+                'transitionIn': 'none',
+                'transitionOut': 'none',
+                'type': 'iframe'
+            });
+        }
+
+        //弹出层关闭时，父页面刷新
+        if($("a[name='fancyboxClose']").length>0){
+            $("a[name='fancyboxClose']").fancybox({
+                'autoScale': false,
+                'autoSize'   : true,
+                'transitionIn': 'none',
+                'transitionOut': 'none',
+                'type': 'iframe',
+                'afterClose':function(){
+                    window.location.reload();
+                }
+            });
+        }
+    })
+</script>
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?f0c0175943cff889a04ff6ae1368a90c";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+    <style type="text/css">
+        .bodyer{
+            padding: 0px 0px 0px 0px;
+        }
+    </style>
+    
+    <script type="text/javascript" src="./植物分类学基础知识-形态术语20240401_files/ckplayer.js.下载" charset="utf-8" data-name="ckplayer"></script>
+    <script language="javascript" type="text/javascript">
+        function dyniframesize() {
+            window.setInterval(dyniframeheight, 1000);
+        }
+        function dyniframeheight() {
+            var down= "ifm";
+            var pTar = null;
+            if (document.getElementById) {
+                pTar = document.getElementById(down);
+            }
+            else {
+                eval('pTar = ' + down + ';');
+            }
+            if (pTar && !window.opera) {
+                //begin resizing iframe
+                pTar.style.display = "block"
+                if (pTar.contentDocument && pTar.contentDocument.body.scrollHeight) {
+                    // ns6 syntax
+                    setTimeout(function(){
+                        pTar.height = pTar.contentDocument.body.scrollHeight;
+                        // console.log("ss:"+pTar.height)
+                    },0)
+//                    pTar.width = pTar.contentDocument.body.scrollWidth;
+                }
+                else if (pTar.Document && pTar.Document.body.scrollHeight) {
+                    //ie5+ syntax
+                    setTimeout(function(){
+                        pTar.height = pTar.Document.body.scrollHeight;
+                    },0)
+//                    pTar.width = pTar.Document.body.scrollWidth;
+                }
+            }
+        }
+
+
+    </script>
+<style type="text/css">.fancybox-margin{margin-right:17px;}</style></head>
+<body>
+<div class="wrap">
+    <div id="dowload-preview">
+        <div class="h1-title h1-title_">
+            <h1>
+                <p><span>3 45植物分类学基础知识 形态术语20240401.pdf</span>
+                    
+                </p>
+            </h1>
+
+        </div>
+        
+
+      </div>
+    <div class="bodyer" style="margin: 20px 0px;width:100%;">
+        
+        <div>
+            <div align="center">
+                
+                
+                    
+
+
+
+            
+
+            <script>
+                $(function(){
+                var url = encodeURIComponent("/meol/analytics/resPdfShow.do?resId=823936&lid=47474");
+                
+                    $("#pdfIframe").attr("src","/meol/styles/newstyle/plugins/DPFjsc/web/viewer.html?file="+url+"&lid=47474&resId=823936");
+                });
+            </script>
+
+            <iframe frameborder="0" scrolling="no" id="pdfIframe" width="100%" height="900px" src="./植物分类学基础知识-形态术语20240401_files/viewer.html"></iframe>
+            
+        </div>
+        </div>
+    </div>
+ </div>
+
+
+<script>
+    var onlinetime = 0,basetime =0;
+    var lastactiontime=0;
+    var active;
+    document.body.onmousemove = function() {
+        active = true;
+    };
+    document.body.onmousedown = function() {
+        active = true;
+    };
+    document.body.onkeydown = function() {
+        active = true;
+    };
+    /*
+        window.onblur = function() {
+            calTime();
+            active = false;
+        };
+    */
+
+    //    window.onfocus = function() {
+    //        lastactiontime = new Date().getTime();
+    //        active = true;
+    //    };
+
+    window.onload = function() {
+        lastactiontime = new Date().getTime();
+
+        active = true;
+    };
+
+    window.onunload = function() {
+        calTime();
+        sendOnPageTime();
+    };
+
+
+    function calTime() {
+        onlinetime += new Date().getTime() - lastactiontime;
+        lastactiontime = new Date().getTime();
+    }
+    setInterval("onlineTimer()", 30000);
+    function onlineTimer() {
+
+        calTime();
+
+        if (onlinetime >= 58 * 1000) {
+            sendOnPageTime();
+        }
+
+    }
+
+
+    //    setInterval(function() {
+    //        if (!active) {
+    //            if (confirm("您已经超过15分钟未做任何操作，在线时间将不作为学习时间统计，需要动鼠标等激活！")) {
+    //                active = true;
+    //                calTime();
+    //            }
+    //        }
+    //    }, 15*60*1000);
+    //
+    function sendOnPageTime() {
+        jQuery.ajax({
+            type:"post",
+            async:false,
+            data:{'lessonId':47474,'resid':823936,'onlinetime': Math.ceil(onlinetime / 1000),'basetime':basetime},
+            url:"/meol/common/script/addscriptviewtime.jsp",
+            success:function(html) {
+                basetime = $.trim(html) * 1000;
+                onlinetime =0;
+                //showtime();
+            }
+        });
+    }
+    function showtime() {
+        document.getElementById('timer').innerHTML = Math.floor((basetime) / 60 / 1000);
+    }
+</script>
+</body></html>
